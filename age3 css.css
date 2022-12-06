@@ -1,0 +1,21 @@
+.age1{
+       text-align:center;
+       height:100px;
+       width:100%;
+       background-color:#99CCFF;
+       font-size: 30px;
+       }
+
+.pic img{
+          width:400px;
+          height:300px;
+          border: 5px solid #1E90FF;
+        }
+.text{
+      
+      text-align:center;
+      font-size: 22px;
+      }
+.text2{
+      font-size: 19px;
+      }	  

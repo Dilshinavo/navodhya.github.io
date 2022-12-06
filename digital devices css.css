@@ -1,0 +1,31 @@
+.text{
+      
+      text-align:center;
+      font-size: 21px;
+      }
+	  
+.pic img{
+          width:500px;
+          height:300px;
+          border: 0px solid #BC8F8F;
+        }
+		
+.pic{
+	   padding-top: 2px;
+       padding-right: 8px;
+       padding-bottom: 8px;
+       padding-left: 8px;
+    }
+	
+body {
+       background-color: #FFFFFF;
+	 }
+	 
+.text11{
+      
+      text-align:left;
+      font-size: 21px;
+      }
+.p {
+     font-size: 19px;
+    }

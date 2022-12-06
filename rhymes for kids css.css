@@ -1,0 +1,146 @@
+.first1{
+       text-align:center;
+       height:100px;
+       width:100%;
+       background-color:#99CCFF;
+       font-size: 30px;
+       }
+
+.pic img{
+          width:400px;
+          height:300px;
+          border: 5px solid #99CCCC;
+        }
+.text{
+      text-align:center;
+      font-size: 22px;
+	  width: 750px;
+	  height:320PX;
+	  border:3px ;
+	  background-color:#E0FFFF;
+	  padding:10PX;
+	  margin:30PX;
+      }
+.text2{
+      font-size: 20px;
+      }
+.ifu{
+      text-align:left;
+      font-size: 22px;
+	  width: 750px;
+	  height:500PX;
+	  border:3px ;
+	  padding:15PX;
+	  margin:1PX;
+
+      }
+.ifu img{
+          width:300px;
+          height:200px;
+        }
+.list a{
+	    text-decoration:none;
+       }
+.hop{
+	     text-align:left;
+      font-size: 22px;
+	  width: 750px;
+	  height:340PX;
+	  border:3px ;
+	  padding:15PX;
+	  margin:1PX;
+
+    }
+.hop img{
+          width:300px;
+          height:200px;
+        }
+.teapot{
+	     text-align:left;
+      font-size: 22px;
+	  width: 750px;
+	  height:390PX;
+	  border:3px ;
+	  padding:15PX;
+	  margin:1PX;
+
+    }
+.teapot img{
+          width:300px;
+          height:200px;
+        }
+.thumbkin{
+	     text-align:left;
+      font-size: 22px;
+	  width: 750px;
+	  height:410PX;
+	  border:3px ;
+	  padding:15PX;
+	  margin:1PX;
+
+    }
+.thumbkin img{
+          width:300px;
+          height:200px;
+        }
+.head{
+	     text-align:left;
+      font-size: 22px;
+	  width: 750px;
+	  height:300PX;
+	  border:3px ;
+	  padding:15PX;
+	  margin:1PX;
+
+    }
+.head img{
+          width:300px;
+          height:200px;
+        }	
+.bus{
+	     text-align:left;
+      font-size: 22px;
+	  width: 750px;
+	  height:430PX;
+	  border:3px ;
+	  padding:15PX;
+	  margin:1PX;
+
+    }
+.bus img{
+          width:300px;
+          height:200px;
+        }	
+.egg{
+	     text-align:left;
+      font-size: 22px;
+	  width: 750px;
+	  height:220PX;
+	  border:3px ;
+	  padding:15PX;
+	  margin:1PX;
+
+    }
+.egg img{
+          width:300px;
+          height:200px;
+        }			
+.star{
+	     text-align:left;
+      font-size: 22px;
+	  width: 750px;
+	  height:480PX;
+	  border:3px ;
+	  padding:15PX;
+	  margin:1PX;
+
+    }
+.star img{
+          width:300px;
+          height:200px;
+        }				
+		
+.link a{
+	 text-decoration:none;
+	 color:#9999FF;
+}

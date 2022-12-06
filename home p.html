@@ -1,0 +1,64 @@
+<html>
+<head>
+  <link rel="stylesheet" href="home page css.css">
+  <title>Home Page</title>
+</head>
+<body>
+    <!--navigation bar-->
+    <nav>
+      <div class="myDiv1">
+        <div id="main">
+            <button class="openbtn" onclick="openNav()">&#9776;</button>
+        </div>
+        <input type = "text" name="search" class="search-box">&nbsp;<Button class="go-btn">Go</Button>&nbsp;
+      </div>
+    </nav>
+   
+   <div id="mySidebar" class="sidebar">
+       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+       <a href="about the age frame.html" target="_blank">About The Age</a>
+       <a href="learning through play.html" target="_blank">Learning Through Play</a>
+       <a href="good manners.html"target="_blank" >Tutor For Good Manners</a>
+       <a href="pets for kids.html"target="_blank" >Pets For Kids</a>
+       <a href="digital devices.html"target="_blank">Mass Media And Childhood</a>
+       <a href="home p.html">Home</a>
+    </div>
+
+   
+
+   <script>
+      function openNav() {
+      document.getElementById("mySidebar").style.width = "250px";
+      document.getElementById("main").style.marginLeft = "250px";
+                         }
+
+      function closeNav() {
+      document.getElementById("mySidebar").style.width = "0";
+      document.getElementById("main").style.marginLeft= "0";
+                           }
+   </script>
+
+
+   <div class="myDiv2">
+      <img src="welcome image.jpg" style="width: 100%">
+        <div class="top-left">
+          <h1>Welcome To<br><b><i><u>BEGETTER'S GUIDE</u></i></b></h1>
+          <h4>"A Perfect Guiding For Paranting."</h4>
+        </div>
+
+        <div class="content">
+           <h1>Few Words About Us,</h1>
+              <p>
+                <h3>Becoming A Parent Is One Of The Most Challanging And Rewarding Thing Human Beign Will Ever Do. 
+                After All, Parents Do Fifty Precent Of The Work Of Bringing A Useful Person In To The World.
+                The First Step Of That Foundation Is Early Childhood. This Web Site Shares Information With
+                Parent About Early Childhood Development And The Importance Of Learning Through Play In The Early Years.</h3> 
+              </p>
+        </div>
+
+   </div>
+
+   
+   
+</body>
+</html>
